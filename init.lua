@@ -1,5 +1,6 @@
 vim.g.mapleader = " "
 
+vim.o.background = "dark"
 vim.opt.number = true
 vim.opt.relativenumber = true
 vim.opt.expandtab = true
